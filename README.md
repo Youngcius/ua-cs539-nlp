@@ -1,7 +1,8 @@
 # UArizona CS539 (Statistical Natural Language Processing) Course Projects
 
+This repository contains the course projects for CS539 (Statistical Natural Language Processing) at the University of Arizona. The projects are mainly written in `python` by using the `spacy` library for natural language processing. 
 
-`spacy`
+See README files in each project folder for more details.
 
 
 
@@ -15,15 +16,11 @@ This course introduces the key concepts underlying statistical natural language 
 
 ## Requirements
 
-
-`python 3.8.*`
-
+Main python library requirements for the projects are as follows:
 
 ```
-spacy                    3.2.2
-spacy-legacy             3.0.8
-spacy-loggers            1.0.1
-numpy                    1.21.2
-scipy                    1.7.1
-scikit-learn             0.24.2
+spacy
+numpy                   
+scipy            
+scikit-learn
 ```
